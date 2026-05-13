@@ -17,13 +17,9 @@ The visualizations emphasize structural organization, molecular interactions and
 - PyMOL
 - Protein Data Bank (PDB)
 
-## Concepts Explored
+## Concepts explored
 - Structural biology
 - Molecular visualization
 - RNA architecture
 - Biomolecular representation
 - Computational chemistry workflows
-
-## Author
-
-Rebecca Sessa
